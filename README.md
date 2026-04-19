@@ -106,11 +106,22 @@
 
 <h2 align="left">Find me</h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/nitinadhikari890/" target="_blank">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+     width="45"
+     alt="leetcode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
