@@ -13,7 +13,7 @@
 🤖 Currently learning <strong>AI</strong> — not trying to build Skynet, just trying to understand what everyone is yelling about<br><br>
 🤝 Looking for help with <strong>AI</strong> — if you know the stuff, let's talk<br><br>
 🌐 Ask me about <strong>Web Development</strong> — I have opinions, some of them are even correct<br><br>
-📬 Reach me at <strong>navadhikari893@gmail.com</strong> — I do reply, eventually
+📬 Reach me at <strong>navadhikari893@gmail.com</strong>
 </p>
 
 ###
