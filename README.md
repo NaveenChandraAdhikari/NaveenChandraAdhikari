@@ -2,21 +2,28 @@
 
 <p align="left">A developer who writes code and occasionally understands it.</p>
 
-###
-
-<img align="right" height="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-
 <h2 align="left">About me</h2>
 
-<p align="left">
-☕ Been spending time with <strong>Java</strong> and <strong>Golang</strong> — still figuring them out, probably always will be<br><br>
-🤖 Currently learning <strong>AI</strong> — not trying to build Skynet, just trying to understand what everyone is yelling about<br><br>
-🤝 Looking for help with <strong>AI</strong> — if you know the stuff, let's talk<br><br>
-🌐 Ask me about <strong>Web Development</strong> — I have opinions, some of them are even correct<br><br>
-📬 Reach me at <strong>navadhikari893@gmail.com</strong>
-</p>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-###
+☕ Been spending time with **Java** and **Golang** — still figuring them out, probably always will be
+
+🤖 Currently learning **AI** — not trying to build Skynet, just trying to understand what everyone is yelling about
+
+🤝 Looking for help with **AI** — if you know the stuff, let's talk
+
+🌐 Ask me about **Web Development** — I have opinions, some of them are even correct
+
+📬 Reach me at **navadhikari893@gmail.com** — I do reply, eventually
+
+</td>
+<td valign="middle" align="center" width="40%">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" />
+</td>
+</tr>
+</table>
 
 <h2 align="left">Languages & Frameworks</h2>
 
