@@ -109,7 +109,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+      <a href="https://www.linkedin.com/in/naveen-chandra-adhikari-a8b2391a0/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" />
       </a>
     </td>
