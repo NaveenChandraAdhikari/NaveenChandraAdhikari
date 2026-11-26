@@ -10,13 +10,15 @@
 
 ☕ Been spending time with **Java** and **Golang** — still figuring them out, probably always will be
 
+☁️ Building infra on **AWS** with **Terraform** — because clicking around the console gets old fast
+
 🤖 Currently learning **AI** — not trying to build Skynet, just trying to understand what everyone is yelling about
 
 🤝 Looking for help with **AI** — if you know the stuff, let's talk
 
 🌐 Ask me about **Web Development** — I have opinions, some of them are even correct
 
-📬 Reach me at **navadhikari893@gmail.com** — I do reply, eventually
+📬 Reach me at **navadhikari893 [at] gmail [dot] com** — I do reply, eventually
 
 </td>
 <td valign="middle" align="center" width="40%">
@@ -53,7 +55,7 @@
 
 ###
 
-<h2 align="left">Databases & Cloud</h2>
+<h2 align="left">Databases, Cloud & DevOps</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
@@ -64,7 +66,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 </div>
